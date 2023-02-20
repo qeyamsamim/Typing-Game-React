@@ -1,0 +1,56 @@
+h1, h4 {
+  font-family: 'Fredoka One', cursive;
+  color: #7d537f;
+}
+
+input {
+  font-size: 10px;
+  background: #fff8f3;
+}
+
+.game-text {
+  background: #fbeee3;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 18px;
+}
+
+.cotainer-margin-bottom {
+  margin-bottom: 8rem;
+}
+
+h5, h6, p span.bold-font, .text-color, .wpm-icon, .timer-icon {
+  color: #653b67;
+}
+
+span.bold-font {
+  font-weight: bold;
+}
+
+footer {
+  background-color: #915d93;
+  position: fixed;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 5rem;
+  right: 0px;
+  }
+
+footer p {
+  font-size: 12px;
+  color: #fbeee3;
+  font-family: "Montserrat", sans-serif;
+}
+
+footer h6 {
+  color: #fffaf6;
+}
+
+small {
+  color: rgb(203, 3, 3);
+}
+
+a {
+  color: #fffaf6 !important;
+}

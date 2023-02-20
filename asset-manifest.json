@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Typing-Game-React/static/css/main.84487ea8.css",
+    "main.js": "/Typing-Game-React/static/js/main.bcd27267.js",
+    "index.html": "/Typing-Game-React/index.html",
+    "main.84487ea8.css.map": "/Typing-Game-React/static/css/main.84487ea8.css.map",
+    "main.bcd27267.js.map": "/Typing-Game-React/static/js/main.bcd27267.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84487ea8.css",
+    "static/js/main.bcd27267.js"
+  ]
+}
